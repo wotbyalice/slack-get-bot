@@ -1,3 +1,11 @@
 
 slack_bolt
 openai
+langdetect
+docx
+pandas
+python-pptx
+requests
+openpyxl
+serpapi
+slack-sdk
